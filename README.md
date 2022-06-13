@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noor Mohammad
-- I'm currently pursing B.sc(Computer Science)
+- I'm currently pursuing B.sc(Computer Science)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-End technologies
 - 
