@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Noor Mohammad
-- I'm currently pursuing B.sc(Computer Science)
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End technologies
-- 
+I completed my graduation in B.sc(Computers).
+I have good knowledge in python,sql,Html,css.Looking for good opertunites where i can showcase my skills.
 
 <!---
 noorgangavaram/noorgangavaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
